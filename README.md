@@ -1,7 +1,9 @@
 # C Pointer Puzzle
 
 A simple interactive web application that tests understanding of C pointers and operator precedence.
+## Live Demo
 
+https://rekhadumpa.github.io/c-pointer-puzzle/
 ## Features
 
 - Interactive C programming puzzle
